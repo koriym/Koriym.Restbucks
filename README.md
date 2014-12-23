@@ -21,7 +21,7 @@ Install
 Warm up
 
     $ cd bootstrap
-    $ cd php api.php 
+    $ php api.php 
     SUMMARY
         api.php -- CLI Router
     
